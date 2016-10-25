@@ -1,0 +1,20 @@
+{
+  "name": "loc8r",
+  "description": "loc8r",
+  "main": "",
+  "authors": [
+    "Guilherme Rodrigues <guiihpr@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/GuimaP/loc8r",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
